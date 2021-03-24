@@ -1,5 +1,5 @@
 # Bank_Application
-CMI of Bank Application System
+Command-Line-Interface of Bank Application System
 
 Instructions:<br>
 1.Download the zip file <br>
